@@ -4,8 +4,7 @@ public class Hello {
 <<<<<<< HEAD
 
 =======
-        System.out.println("Bye;");
-        System.out.println("this is the end;");
+       
 >>>>>>> master
     }
 }
